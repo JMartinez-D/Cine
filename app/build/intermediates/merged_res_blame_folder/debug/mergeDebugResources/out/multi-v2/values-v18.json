@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.cine.app-mergeDebugResources-33:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Quetzal\\.gradle\\caches\\9.3.0\\transforms\\482e989489eb3dad040d5362dfad77bb\\workspace\\transformed\\appcompat-1.7.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+package com.example.cine.data.branches
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "branches")
+data class Branch(
+    @PrimaryKey(autoGenerate = true) val branchId: Long = 0,
+    val name: String,
+    val address: String,
+    val city: String
+)
